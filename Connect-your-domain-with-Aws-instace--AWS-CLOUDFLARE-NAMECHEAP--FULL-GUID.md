@@ -487,6 +487,9 @@ Here is the full journey from buying the domain to Cloudflare managing it:
 lennojn.ns.cloudflare.com
 savanna.ns.cloudflare.com
 ```
+```
+to check which dns u use for ecruity insert ur domain here: https://www.whatsmydns.net
+```
 These are Cloudflare's own DNS servers.
 
 **Step 4 — You go back to Namecheap and change the nameservers**
