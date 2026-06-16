@@ -1,1 +1,0 @@
-# Connect-your-domain-with-Aws-instace--AWS-CLOUDFLARE-NAMECHEAP--FULL-GUID
